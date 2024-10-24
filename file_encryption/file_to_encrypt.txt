@@ -1,0 +1,5 @@
+This is sensitive information of the user: 
+
+Their address is 123 Palm tree, MD
+Their phone number is +12345678909
+Their Social security is 000-00-0000
