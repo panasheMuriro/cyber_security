@@ -1,7 +1,13 @@
-# Flags Captured from PICOCTF
+# Hacking Flags Captured from PICOCTF
 
-Flag capture progress from PicoCTF
+picoCTF gamifies learning hacking with capture-the-flag puzzles created by trusted computer security and privacy experts at Carnegie Mellon University. More at https://picoctf.org/
 
+
+## User profile: 
+https://play.picoctf.org/users/murirop
+
+
+## Flags captured
 
 | # | Flag | Category | Level | Completed |
 |-----|-----|----| --- | --|
