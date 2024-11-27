@@ -33,3 +33,13 @@ https://play.picoctf.org/users/murirop
 20 | runme.py | General Skills | Easy | ✅
 21 | PW Crack 1 | General Skills | Easy | ✅
 22 | PW Crack 2 | General Skills | Easy | ✅
+23| HashingJobApp | General Skills | Easy | ✅
+24| Glitch Cat | General Skills | Easy | ✅
+25| fixme1.py | General Skills | Easy | ✅
+26| fixme2.py | General Skills | Easy | ✅
+27| convertme.py | General Skills | Easy | ✅
+28| Codebook| General Skills | Easy | ✅
+29 | Magikarp Ground Mission| General Skills | Easy | ✅
+30|information| Forensics | Easy | ✅
+
+
