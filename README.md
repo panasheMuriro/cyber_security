@@ -41,5 +41,11 @@ https://play.picoctf.org/users/murirop
 28| Codebook| General Skills | Easy | ✅
 29 | Magikarp Ground Mission| General Skills | Easy | ✅
 30|information| Forensics | Easy | ✅
-
-
+31 | Tab, Tab, Attack | General Skills | Easy | ✅
+32 | Wave a flag | General Skills | Easy | ✅
+33 | Python Wrangling | General Skills | Easy | ✅
+34 | Static ain't always noise | General Skills | Easy | ✅
+35 | Nice netcat... | General Skills | Easy | ✅
+36 | Obedient Cat | General Skills | Easy | ✅
+37 | Mod 26 | Cryptography | Easy | ✅
+38 | 2Warm | General Skills | Easy | ✅
