@@ -49,3 +49,10 @@ https://play.picoctf.org/users/murirop
 36 | Obedient Cat | General Skills | Easy | ✅
 37 | Mod 26 | Cryptography | Easy | ✅
 38 | 2Warm | General Skills | Easy | ✅
+39 |First Grep |General Skills | Easy | ✅
+40 | The Numbers | Cryptography | Easy | ✅
+41 | Bases |General Skills | Easy | ✅
+42 | dont-use-client-side | Web Exploitation | Easy | ✅
+43 |  13 | Cryptography | Easy | ✅
+44 | Warmed Up |General Skills | Easy | ✅
+45 | what's a net cat? | General Skills | Easy | ✅
