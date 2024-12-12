@@ -56,3 +56,11 @@ https://play.picoctf.org/users/murirop
 43 |  13 | Cryptography | Easy | ✅
 44 | Warmed Up |General Skills | Easy | ✅
 45 | what's a net cat? | General Skills | Easy | ✅
+46 | Glory of the Garden | Forensics | Easy | ✅
+47 | strings it |General Skills | Easy | ✅
+48 | what's a net cat? | General Skills | Easy | ✅
+49 | Lets Warm Up| General Skills | Easy | ✅
+50 | Insp3ct0r | Web Exploitation | Easy | ✅
+51 | vault-door-training | Reverse Engineering | Easy |✅
+52 | where are the robots |  Web Exploitation | Easy | ✅
+
